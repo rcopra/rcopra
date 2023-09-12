@@ -1,8 +1,6 @@
 <h2 align="center"><strong>Hi there :wave:</strong></h2>
-<h4 align="center">Warm welcome to my GitHub profile</h4>
 <br>
-My name is Rick, I am a junior full-stack web developer.
-<br>
+My name is Rick, I'm a full-stack web developer.
 <br>
 <h4 align="center">My tech stack:</h4>
 <p align="center">
