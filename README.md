@@ -1,14 +1,14 @@
-<h2 align="center"><strong>Hi there :wave:</strong></h2>
+<h2 align="center"><strong>Hello, fellow coders! 👋</strong></h2>
 <br>
-My name is Rick, I'm a full-stack web developer. I used to work in customer teams, but I took a leap in 2023 to pursue my interest in technology.
+🚀 With a rich 10-year background in hospitality & global mobility, I'm now channeling my passion into the tech sphere. Having recently graduated from Le Wagon's Web Developer bootcamp, I'm excited to immerse myself in coding projects and collaborations. I bring to the table a unique blend of experience and fresh insights. Feel free to explore my repositories – perhaps we can code the next big thing together!
 <br><br>
-I attended the Le Wagon Full Stack developer bootcamp over the summer where I learned to work with the following tools:
+During my transformative journey at the Le Wagon Full Stack Developer bootcamp this summer, I honed my skills in:
 <br>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,heroku,html,css,js,postgres,rails,ruby,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,heroku,html,css,js,postgres,rails,ruby,bootstrap" alt="Skill Icons" />
   </a>
 </p> 
 <br><br>
-If you're interested in working together - please don't hesitate to reach out!
+Considering a collaboration or just want to chat about tech? 💌 Drop me a message. I'd love to connect!
