@@ -9,4 +9,6 @@ I attended the Le Wagon Full Stack developer bootcamp over the summer where I le
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,heroku,html,css,js,postgres,rails,ruby,bootstrap" />
   </a>
-</p>
+</p> 
+<br><br>
+If you're interested in working together - please don't hesitate to reach out!
