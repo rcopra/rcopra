@@ -1,14 +1,16 @@
-<h2 align="center"><strong>Hello, fellow coders! 👋</strong></h2>
-<br>
-🚀 With a rich 10-year background in hospitality & global mobility, I'm now channeling my passion into the tech sphere. Having recently graduated from Le Wagon's Web Developer bootcamp, I'm excited to immerse myself in coding projects and collaborations. I bring to the table a unique blend of experience and fresh insights. Feel free to explore my repositories – perhaps we can code the next big thing together!
-<br><br>
-During my transformative journey at the Le Wagon Full Stack Developer bootcamp this summer, I honed my skills in:
-<br>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,heroku,html,css,js,postgres,rails,ruby,bootstrap" alt="Skill Icons" />
-  </a>
-</p> 
-<br><br>
-Considering a collaboration or just want to chat about tech? 💌 Drop me a message. I'd love to connect!
+# Hi, I'm Rick 👋
+
+## Developer | Problem Solver | Tech Enthusiast
+
+After a rich journey through customer service and global mobility, I've found my passion in coding. A pivotal experience at Le Wagon's bootcamp ignited my love for creating and troubleshooting in the digital space.
+
+### Here's a snapshot of my tech stack:
+
+- **Version Control:** Git
+- **Deployment Platforms:** Heroku
+- **Frontend Development:** HTML, CSS, JavaScript, Bootstrap
+- **Backend Development:** Ruby on Rails, PostgreSQL
+
+I'm currently expanding my horizons by diving deep into the MERN stack. My repositories are a testament to my journey in coding, from custom keyboard layouts to full-stack applications.
+
+Feel free to explore my projects and reach out if you'd like to collaborate or chat about tech!
