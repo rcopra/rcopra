@@ -11,8 +11,6 @@ From the front lines of customer service to the nuanced field of global mobility
 - **Frontend Development:** ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white "HTML5") ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white "CSS3") ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black "JavaScript") ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3.svg?&style=flat&logo=bootstrap&logoColor=white "Bootstrap")
 - **Backend Development:** ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-%23CC0000.svg?&style=flat&logo=ruby-on-rails&logoColor=white "Ruby on Rails") ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791.svg?&style=flat&logo=postgresql&logoColor=white "PostgreSQL")
 
-I'm currently expanding my horizons by diving deep into the MERN stack to try and build a full stack application for the first time with a brand new toolbox at my disposal. 
-
 Feel free to explore my projects and reach out if you'd like to collaborate or chat about tech (or keyboards)!
 
 ### Personal Workflow Optimization:
