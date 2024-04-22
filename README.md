@@ -1,6 +1,6 @@
 # Hi, I'm Rick 👋 ⌨️
 
-## Developer | Problem Solver | Tech Enthusiast
+## Developer & part time aspiring mad scientist
 
 From a career start in customer teams, I found my calling in the command line.  I've always wanted to work with technology, and learning to code helped me find my path.
 
