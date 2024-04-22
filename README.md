@@ -12,6 +12,7 @@ From a career start in customer teams, I found my calling in the command line.  
 - **Backend Development:** ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-%23CC0000.svg?&style=flat&logo=ruby-on-rails&logoColor=white "Ruby on Rails") ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791.svg?&style=flat&logo=postgresql&logoColor=white "PostgreSQL")
 
 ### Hobbys:
-When I'm not coding I'm either tinkering away on 3D printers, trying to learn more about electronics DIY projects, or optimizing my keyboard layouts. I can type fast with QWERTY, but I wanted to work more comfortably. I've challenged myself to learn a new keyboard layout to accomplish that - Colemak DH. In just a few months, I was already reaching 70-80 WPM. Follow my progress on [Monkeytype](https://monkeytype.com/profile/rcopra)
+When I'm not coding I'm either tinkering away on 3D printers, trying to learn more about electronics DIY projects, or optimizing my keyboard layouts. I'm really into building things lately, and I just finished building a [Voron 0 3d printer](https://github.com/VoronDesign/Voron-0)! My next project is going to be building a second split keyboard, with a focus on ergonomics. The [Charybdis Mini](https://github.com/erenatas/charybdis-wireless-3x6).
 
+ I've also been typing with the [Colemak DH](https://colemakmods.github.io/mod-dh/) layout exclusively since early 2024. Follow my progress on [Monkeytype](https://monkeytype.com/profile/rcopra).
 
