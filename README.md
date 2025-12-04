@@ -6,5 +6,5 @@ When I'm not coding I'm either tinkering away on 3D printers, trying to learn mo
 
 [Here's my keymap](https://github.com/rcopra/zmk-config) if you're interested to know how I can manage only having 36 keys.
 
- I've also been typing with the [Colemak DH](https://colemakmods.github.io/mod-dh/) layout exclusively since early 2024. Follow my progress on [Monkeytype](https://monkeytype.com/profile/rcopra).
+ I've also been typing with the [Colemak DH](https://colemakmods.github.io/mod-dh/) layout exclusively since early 2024. Follow my progress on [Monkeytype](https://monkeytype.com/profile/vegan_empanada).
 
